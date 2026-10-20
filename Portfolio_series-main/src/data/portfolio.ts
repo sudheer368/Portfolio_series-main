@@ -34,7 +34,7 @@ export const profile = {
 
 export const education = [
   {
-    school: 'Kodad Institute of Technology Science for Women',
+    school: 'Kodad Institute of Technology Science for Women ',
     place: 'Telangana',
     degree: 'Bachelor of Technology in Civil Engineering',
     period: '2021 – 2025',
